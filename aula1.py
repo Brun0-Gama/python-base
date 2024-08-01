@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 #comentario
 print('Hello World')
 print(12, 34, end='##\n') # adicionado final de linha e o \n para pular a linha
